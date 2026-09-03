@@ -22,6 +22,8 @@ Product manager who leads product strategy and defines how product organizations
 
 - Diagnosed Lucid's AI retention gap—10–15% weekly return to AI versus a 60–65% platform benchmark across 100K+ users—and built the strategic case for editing as the growth unlock; led the 0→1 roadmap and shipped AI editing capabilities that made Lucid the best AI diagramming tool in the world, driving a **12% lift in active AI feature adoption**.
 - Functioned as a **full-stack AI product builder** on a CEO-sponsored team: wrote code, designed, and shipped AI tools for automated organizational knowledge capture while running weekly customer discovery; solutions **cut implementation consultant onboarding time 5x**.
+- Created hybrid evals for diagram-generation tools, testing structural validity and semantic fidelity against source inputs; used continuous regression testing to identify failure modes, improve output quality, and build confidence before behavior changes shipped.
+- Created rubric-based evals for AI interview flows, measuring question selection, coverage, pacing, depth control, and summary fidelity; used results to guide iteration and increase release confidence.
 - Owned end-to-end development of **enterprise platform** foundations—including user management, billing, and permissions—enabling distributed ownership and flexible buying models across 4,000+ paid customers and **unlocking approximately $2M ARR**.
 - Led product strategy for Team Hubs, creating persistent collaborative workspaces for knowledge workers; reached **over 40% adoption** across the enterprise user base.
 - Launched self-serve license purchasing for enterprise admins, creating a **product-led expansion** path that reduced sales dependency for seat expansion.
