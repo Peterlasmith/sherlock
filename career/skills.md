@@ -18,6 +18,7 @@ This inventory is based on Peter's current resume. Keep adding evidence as new w
 | --- | --- | --- |
 | AI product development | Shipped AI editing capabilities and built an AI-powered job search platform end-to-end. | Strong |
 | Full-stack prototyping | Wrote code, designed, and shipped AI tools on a CEO-sponsored team. | Strong |
+| AI evaluation design | Created hybrid evals for diagram-generation tools and rubric-based evals for AI interview flows; used continuous regression testing to improve quality and build release confidence. | Strong |
 | AI-enabled development | Upskilled 110+ PMs, designers, and solutions engineers to prototype on the production codebase using Claude Code. | Strong |
 | AI operating systems | Built reusable skills for transcript summarization, PRD generation, and insight extraction for 50+ PMs. | Strong |
 | Product experimentation | Designed an opinionated, guided job-search experience and tested it with early users. | Working / Strong |
@@ -43,6 +44,7 @@ This inventory is based on Peter's current resume. Keep adding evidence as new w
 ## Current tools and technologies
 
 - Claude Code — production-codebase prototyping and AI-enabled product development.
+- AI evaluation — structural and semantic diagram checks, interview-flow rubrics, and continuous regression testing.
 - AI product systems — transcript summarization, PRD generation, insight extraction, and resume/role-fit analysis.
 - Enterprise platform concepts — user management, billing, permissions, flexible buying models, and self-serve purchasing.
 
